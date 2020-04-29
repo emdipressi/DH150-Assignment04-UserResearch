@@ -23,12 +23,20 @@
   * Basic levels of expertise: search for location and understand temperatures.
 * _Where would users do this activity?_
   * Users would most likely do this at their home computer in the morning while getting prepared for the day. Or at another location where users can access computers in advance for the next day (work, library). 
-* What would the users do to complete the activity?_
+* _What would the users do to complete the activity?_
   * The user will navigate throughout the website, searching for their current location and see if they can find the helpful information from that page that they want, such as an hourly breakdown. For more advanced searches they will navigate to other areas of the website, such as “safety” and search for more detailed information such as UV index. 
 
 ### Research 
 * _Method_
   * I used participatory observation research to conduct this activity. My mom volunteered, as the only person available to me, who also fits the demographics my website aims at.
 * _Script_
-  * The script that I followed during my avtivity can be fouund [here](https://docs.google.com/document/d/1vDMXNtb1-SK_44kGPuCjVESx0p6GlOQ87Unp5JplFbw/edit) 
-* 
+  * The script that I followed during my avtivity can be found [here](https://docs.google.com/document/d/1vDMXNtb1-SK_44kGPuCjVESx0p6GlOQ87Unp5JplFbw/edit).  
+* _Activity File_
+  * The audio recording of my participant during the activity can be found [here](). 
+* _Transcript_
+  * The transcript of my audio recording can be found [here](https://docs.google.com/document/d/1bjNb7zqZGqVgDXgPbhfYaf7b_lTqP2ZIM1MG0GwkK5M/edit). 
+  
+### Reflection
+* I learned a lot doing this activity. Planning the interview was easier than I thought because we had examples to follow and then while I did the interview it was really nice having a script to use because it meant that I would stumble less over my words. Having a script also made it easier to expand on my ideas with the participant because I had a basic outline already. It was good to get more feedback about the website and its usability by a user who might actually want to use the site.
+* \* I was very confused dong this activity, it was not clear to me what we were supposed to have our person do, so I am not quite confident that I asked the right questions or had the participant do the correct activity on the website. 
+  
