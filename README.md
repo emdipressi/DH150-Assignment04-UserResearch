@@ -28,7 +28,7 @@
 
 ### Research 
 * _Method_
-  * I used participatory observation research to conduct this activity. My mom volunteered, as the only person available to me, who also fits the demographics my website aims at.
+  * I used participatory observation research to conduct this activity. My mom volunteered, as the only person available to me, who also fits the demographics my website aims at. I observed her and how she used the website in our home while she followed a few questions from myself.
 * _Script_
   * The script that I followed during my avtivity can be found [here](https://docs.google.com/document/d/1vDMXNtb1-SK_44kGPuCjVESx0p6GlOQ87Unp5JplFbw/edit).  
 * _Activity File_
@@ -37,6 +37,6 @@
   * The transcript of my audio recording can be found [here](https://docs.google.com/document/d/1bjNb7zqZGqVgDXgPbhfYaf7b_lTqP2ZIM1MG0GwkK5M/edit). 
   
 ### Reflection
-* I learned a lot doing this activity. Planning the interview was easier than I thought because we had examples to follow and then while I did the interview it was really nice having a script to use because it meant that I would stumble less over my words. Having a script also made it easier to expand on my ideas with the participant because I had a basic outline already. It was good to get more feedback about the website and its usability by a user who might actually want to use the site.
+* I learned a lot doing this activity. Planning the interview was easier than I thought because we had examples to follow and then while I did the interview it was really nice having a script to use because it meant that I would stumble less over my words. Having a script also made it easier to expand on my ideas with the participant because I had a basic outline already. It was good to get more feedback about the website and its usability by a user who might actually want to use the site. In the future, I will definitely have a script and if I were to ever do this again, with no quarantine, I would like to have different users, but with the current situation that is not possible for me.
 * \* I was very confused dong this activity, it was not clear to me what we were supposed to have our person do, so I am not quite confident that I asked the right questions or had the participant do the correct activity on the website. 
   
