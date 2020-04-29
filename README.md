@@ -25,3 +25,10 @@
   * Users would most likely do this at their home computer in the morning while getting prepared for the day. Or at another location where users can access computers in advance for the next day (work, library). 
 * What would the users do to complete the activity?_
   * The user will navigate throughout the website, searching for their current location and see if they can find the helpful information from that page that they want, such as an hourly breakdown. For more advanced searches they will navigate to other areas of the website, such as “safety” and search for more detailed information such as UV index. 
+
+### Research 
+* _Method_
+  * I used participatory observation research to conduct this activity. My mom volunteered, as the only person available to me, who also fits the demographics my website aims at.
+* _Script_
+  * The script that I followed during my avtivity can be fouund [here](https://docs.google.com/document/d/1vDMXNtb1-SK_44kGPuCjVESx0p6GlOQ87Unp5JplFbw/edit) 
+* 
